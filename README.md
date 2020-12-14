@@ -4,4 +4,4 @@
 
 ## Credits
 
-Bu repo [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)'a aiddir və tərcüməsi [Mənə](https://t.me/TuraneSupport) aiddir. 
+Bu repo [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)'a aiddir və tərcüməsi [Mənə](https://t.me/rihad) aiddir. 

@@ -214,6 +214,9 @@ def start(update: Update, context: CallbackContext):
                          InlineKeyboardButton(
                              text="🧾 Bot haqqında",
                              url="https://t.me/FaridDadashzade")
+                         InlineKeyboardButton(
+                             text="🧾 Ətraflı Məlumat",
+                             url="https://t.me/TheBaghirof")
                      ],
                      [
                          InlineKeyboardButton(

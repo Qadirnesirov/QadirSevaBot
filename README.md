@@ -1,7 +1,7 @@
-[Turanə](https://t.me/TuraneBot) Azərbaycanca olan qrup idarə botudur.
+[𝑆 𝑒 𝑣 𝑎 🌹](https://t.me/MissSeva_Bot) Azərbaycanca olan qrup idarə botudur.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FaridDadashzade/TuraneBot)
-
+### 🚀 Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Qadirnesirov02/Salam_sagol_botu)
 ## Credits
 
-Bu repo [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)'a aiddir və tərcüməsi [Bu şəxsə](https://t.me/rihad) aiddir. 
+Bu repo [SaitamaRobot](https://github.com/Qadirnesirov02/Salam_sagol_botu)'a aiddir və tərcüməsi [Bu şəxsə](https://t.me/Qadir) aiddir. 

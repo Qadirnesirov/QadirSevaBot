@@ -1,5 +1,5 @@
 {
-      "name": "TuranəRobot",
+      "name": "MissSeva_bot",
       "description": "Azərbaycanca olan çox funksiyalı qrup idarə botu.",
       "keywords": [
          "telegram",
@@ -19,17 +19,17 @@
    ],
    "env": {
       "TOKEN": {
-         "description": "Bot tokeni buraya yazın",
+         "description": "6178631801:AAE6vlMDEBY66UGJhJZ_KarPh0bbNjJfSPs",
          "required": true,
          "value": ""
       },
       "API_ID": {
-         "description": "Telethon bazalı modullar üçün my.telegram.org adresindən Api ID alın.",
+         "description": "26712413",
          "required": true,
          "value": ""
       },
       "API_HASH": {
-         "description": "Telethon bazalı modullar üçün my.telegram.org adresindən Api Hash alın",
+         "description": "3298034eb7cec614ef852fda02536153",
          "required": true,
          "value": ""
       },    
@@ -39,36 +39,36 @@
          "value": "sqldbtype://username:pw@hostname:port/db_name"
       },      
       "OWNER_ID": {
-         "description": "Your user ID as an integer.",
+         "description": "5860341998",
          "required": true,
          "value": ""
       },
       "OWNER_USERNAME": {
-         "description": "Your username without the @",
+         "description": "nesirovqadirofficiall",
          "value": ""
       },
       "SUPPORT_CHAT": {
-         "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
+         "description": "https://t.me/imperatorofficiall",
          "required": true,
          "value": ""
       },
       "EVENT_LOGS": {
-         "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
+         "description": "https://t.me/MissSevaBot'",
          "required": true,
          "value": "-123456798"
       },
       "JOIN_LOGGER": {
-         "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
+         "description": "https://t.me/MissSevaBot",
          "required": true,
          "value": "-123456798"
       },      
       "CASH_API_KEY": {
-         "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
+         "description": "1VNRJPSWSCERUEAY",
          "required": true,
          "value": "-xyz"
       },
       "TIME_API_KEY": {
-         "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
+         "description": "http://api.timezonedb.com/v2.1/list-time-zone",
          "required": true,
          "value": "-xyz"
       },
@@ -78,7 +78,7 @@
          "value": ""
       },
       "sw_api": {
-         "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
+         "description": "i~AEAy~3qSy1aIJcOda0UgU9E4SSJ6imz9F_0sBZFS7Ql2ECEa9k4M_6i5D0c_qS",
          "required": false,
          "value": ""
       }, 
@@ -87,22 +87,22 @@
          "value": "True"
       },
       "DRAGONS": {
-         "description": "A space separated list of user IDs who you want to assign as sudo users.",
+         "description": "5860341998",
          "required": false,
          "value": ""
       },
       "DEMONS": {
-         "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
+         "description": "5860341998",
          "required": false,
          "value": ""
       },
       "TIGERS": {
-         "description": "A space separated list of user IDs who you wanna assign as tiger users.",
+         "description": "5860341998",
          "required": false,
          "value": ""
       },
       "WOLVES": {
-         "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
+         "description": "5860341998",
          "required": false,
          "value": ""
       },
@@ -121,7 +121,7 @@
          "value": ""
       },
       "URL": {
-         "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
+         "description": "https://dashboard.heroku.com/apps",
          "required": false,
          "value": ""
       },
@@ -131,7 +131,7 @@
          "value": "cleaner rss connection"
       }, 
       "BL_CHATS": {
-         "description": "List of chats you want blacklisted.",
+         "description": "https://t.me/MissSevaBot",
          "required": false,
          "value": ""
       },
@@ -154,7 +154,7 @@
          "value": ""
    },      
       "BAN_STICKER": {
-         "description": "ID of the sticker you want to use when banning people.",
+         "description": "CAACAgIAAxkBAAEHyP9j76KKyxq_ZunH4jPWzebZopD4ewAClhQAApke0UlrItRZlA6_Bi4E",
          "required": false,
          "value": "CAACAgQAAx0CU_rCTAABAczQXyBOv1TsVK4EfwnkCUT1H0GCkPQAAtwAAwEgTQaYsMtAltpEwhoE"
       },

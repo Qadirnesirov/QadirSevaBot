@@ -198,30 +198,30 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="☑️ Turanəni qrupa əlavə et",
+                            text="☑️ 𝑆 𝑒 𝑣 𝑎 🌹 qrupa əlavə et",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
                              text="🚑 Dəstək qrupumuz",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                             url=f"https://t.me/imperatorofficiall/{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
                              text="🔔 Yeniliklər kanalı",
-                             url="https://t.me/TTBBots")
+                             url="https://t.me/MissSevaBot")
                      ],
                      [
                          InlineKeyboardButton(
                              text="🧾 Bot haqqında",
-                             url="https://t.me/FaridDadashzade")
+                             url="https://t.me/nesirovqadirofficiall")
                          InlineKeyboardButton(
                              text="🧾 Ətraflı Məlumat",
-                             url="https://t.me/TheBaghirof")
+                             url="https://t.me/MissSevaBot")
                      ],
                      [
                          InlineKeyboardButton(
                              text="🗄 Repo URL",
-                             url="https://github.com/AnimeKaizoku/SaitamaRobot")
+                             url="https://github.com/Qadirnesirov02/Salam_sagol_botu")
                      ]]))
     else:
         update.effective_message.reply_text(
@@ -501,7 +501,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != 254318997 and DONATION_LINK:
             update.effective_message.reply_text(
-                "Hal-hazırda məni idarə edən şəxsə bağış edə bilərsiniz "
+                "nesirovqadirofficiall"
                 "[here]({})".format(DONATION_LINK),
                 parse_mode=ParseMode.MARKDOWN)
 

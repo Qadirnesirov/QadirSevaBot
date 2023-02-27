@@ -48,17 +48,17 @@
          "value": ""
       },
       "SUPPORT_CHAT": {
-         "description": "https://t.me/imperatorofficiall",
+         "description": "https://t.me/MissSeva",
          "required": true,
          "value": ""
       },
       "EVENT_LOGS": {
-         "description": "https://t.me/MissSevaBot'",
+         "description": "https://t.me/MissSeva'",
          "required": true,
          "value": "-123456798"
       },
       "JOIN_LOGGER": {
-         "description": "https://t.me/MissSevaBot",
+         "description": "https://t.me/MissSeva",
          "required": true,
          "value": "-123456798"
       },      
